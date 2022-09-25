@@ -1,0 +1,33 @@
+body
+{
+    background: rgb(0, 0, 0);
+    font-family: 'Times New Roman';
+    text-align: center;
+    
+
+}
+
+.header_div
+{
+    background: rgb(254, 234, 255);
+    color:rgb(0, 136, 255);
+}
+
+.header_div p{
+    color:rgb(0, 255, 170);
+    font-size: 15px;
+    font-weight: bold;
+}
+
+
+
+.main_div button{
+    width: 120px;
+    margin-top:30px;
+    font-family: 'Times New Roman';
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+
+
+
